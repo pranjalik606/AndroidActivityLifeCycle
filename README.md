@@ -1,1 +1,1 @@
-Hello This is "Android Activity Life Cycle"
+Hello This is "Android Activity Life Cycle".
